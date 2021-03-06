@@ -14,8 +14,8 @@ import java.util.List;
  * @date 2021/1/23
  */
 public class TestVod {
-    private static String accessKeyId = "LTAI4G8bdDeSsEYYHbPgbKVY";
-    private static String accessKeySecret = "RRrMHVnGA6eutz6XcPI4thpUOltYDP";
+    private static String accessKeyId = "";
+    private static String accessKeySecret = "";
     public static void main(String[] args) throws Exception {
         TestVod.getPlayAuth();
         TestVod.getPlayUrl();
